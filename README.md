@@ -1,7 +1,7 @@
 ### Hi there, I am Rakib..
 
 
-<!--
+
 **za-rakib/za-rakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/md-rakib-hossen-2964b0157/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: .
