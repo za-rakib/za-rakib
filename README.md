@@ -1,11 +1,6 @@
-### Hi there, I am Rakib..
+### Hi there, I am [Rakib](https://za-portfolio.web.app/)
 
-
-
-**za-rakib/za-rakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-------------------------------------------------
 . 🔭 I’m currently working on ... React.js
 - 🌱 I’m currently learning ...Everything
 - 👯 I’m looking to collaborate on ... React.js
