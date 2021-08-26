@@ -48,6 +48,8 @@ Sublime text                    █████░░░░░░░░░░░
 <h3> 🤝🏻 Connect with Me </h3>
 <p><a href="https://www.linkedin.com/in/md-rakib-hossen-2964b0157/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
  <a href="https://www.facebook.com/za.rakib2/" target="_blank"><img alt="FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
-  <a href="https://twitter.com/rakib_za" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/rakib_za" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://drive.google.com/file/d/10vFiy1oG0AuYo8G9cxM4ttvcd7_JQPmM/view?usp=sharing" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&l=white" /></a>
+
   <a href="https://www.instagram.com/za__rakib/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
