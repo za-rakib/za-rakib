@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on ... React.js
 
 ### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)] [linkedin](https://www.linkedin.com/in/md-rakib-hossen-2964b0157/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)] [linkedin]
 [![Github Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)][github]
 [![Get Resume](https://img.shields.io/badge/%20-Resume%20Upload-black?color=#d8624c&labelColor=fff)](https://drive.google.com/file/d/10vFiy1oG0AuYo8G9cxM4ttvcd7_JQPmM/view?usp=sharing)
 
