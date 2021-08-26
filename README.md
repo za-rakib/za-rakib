@@ -1,12 +1,8 @@
  # Hi there, I'm [Rakib](https://za-portfolio.web.app/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 👨‍💻 I’m currently working on web development technologies.
-- 🌱 I’m currently learning ...Node.js
+- 🌱 I’m currently learning ...Node.js & React Native
 - 👯 I’m looking to collaborate on ... React.js
 
-### Connect with me:
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Github Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=github&logoColor=ffffff)][github]
-[![Get Resume](https://img.shields.io/badge/%20-Resume%20Upload-black?color=#d8624c&labelColor=fff)](https://drive.google.com/file/d/10vFiy1oG0AuYo8G9cxM4ttvcd7_JQPmM/view?usp=sharing)
 
 ---
 
@@ -50,6 +46,5 @@ Sublime text                    █████░░░░░░░░░░░
  <a href="https://www.facebook.com/za.rakib2/" target="_blank"><img alt="FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
   <a href="https://twitter.com/rakib_za" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
  <a href="https://drive.google.com/file/d/10vFiy1oG0AuYo8G9cxM4ttvcd7_JQPmM/view?usp=sharing" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&l=white" /></a>
-
   <a href="https://www.instagram.com/za__rakib/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
