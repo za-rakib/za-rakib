@@ -1,7 +1,6 @@
  # Hi there, I'm [Rakib](https://za-portfolio.web.app/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 👨‍💻 I’m currently working on web development technologies.
 - 🌱 I’m currently learning ...Node.js & React Native
-- 👯 I’m looking to collaborate on ... React.js
 
 
 ---
