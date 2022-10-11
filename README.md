@@ -1,4 +1,4 @@
- # Hi there, I'm [Rakib](https://za-portfolio.web.app/) <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW/giphy.gif" width="50">
+ # Hi there, I'm [Rakib](https://za-portfolio.web.app/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 👨‍💻 I’m currently working as a app developer [𝐒𝐚𝐲𝐛𝐮𝐫𝐠𝐡 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬](https://sayburgh.com/).
 - 🌱 I’m currently learning ...Dart ,Flutter, DSA...
 
