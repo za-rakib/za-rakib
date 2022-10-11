@@ -1,7 +1,6 @@
  # Hi there, I'm [Rakib](https://za-portfolio.web.app/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-- 👨‍💻 I’m currently working on web development technologies.
-- 🌱 I’m currently learning ...Node.js & React Native
-
+- 👨‍💻 I’m currently working on App 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐭 [𝐒𝐚𝐲𝐛𝐮𝐫𝐠𝐡 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬](https://sayburgh.com/)
+- 🌱 I’m currently learning ...Dart ,Flutter, DSA...
 
 ---
 
