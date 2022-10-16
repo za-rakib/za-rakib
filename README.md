@@ -46,3 +46,4 @@ Sublime text                 █████░░░░░░░░░░░░
  <a href="https://drive.google.com/file/d/1L6JsaigfYTjYYuB-8DVbEb6Vg5xXMe6S/view?usp=sharing" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&l=white" /></a>
   <a href="https://www.instagram.com/za__rakib/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="Harshal Shende" width="500px" style="margin-left: 20px;" />
