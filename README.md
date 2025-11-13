@@ -21,17 +21,11 @@
 
 ### 📈 GitHub Insights
 
-### 📈 GitHub Insights
-
-<p align="">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za-rakib&layout=compact&theme=tokyonight" />
-</p>
-
 <p align="">
   <img width="400px" src="https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="">
   <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
 </p>
 
@@ -53,7 +47,9 @@ Xcode                        ████████████░░░░░
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="Rakib" width="500px" style="margin-left: 20px;" />
-
+<p align="">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za-rakib&layout=compact&theme=tokyonight" />
+</p>
 <!--END_SECTION:waka-->
 <h3> 🤝🏻 Connect with Me </h3>
 <p><a href="https://www.linkedin.com/in/za-rakib/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
