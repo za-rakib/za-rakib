@@ -20,7 +20,6 @@
 ---
 
 ### 📈 GitHub Insights
-[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=za-rakib&theme=tokyonight&show_icons=true)](https://github.com/za-rakib)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=za-rakib&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night)
