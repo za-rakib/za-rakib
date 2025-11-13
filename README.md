@@ -7,26 +7,27 @@
 [linkedin]: https://www.linkedin.com/in/md-rakib-hossen-2964b0157/
 [github]: https://github.com/za-rakib/
 
-### Languages and Tools:
+### 🧠 Languages & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
+---
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-<br/>
-<br/>
+### 📈 GitHub Insights
+[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=za-rakib&theme=tokyonight&show_icons=true)](https://github.com/za-rakib)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=za-rakib&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night)
 
-[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=za-rakib&theme=tokyonight&show_icons=true)](https://github.com/za-rakib/github-readme-stats)
+---
 
-📊 **This week I spent my time on** 
+### 📊 Weekly Development Breakdown
 
 ```text
 💬 Languages: 
@@ -36,7 +37,8 @@ Node                         ███░░░░░░░░░░░░░░
 Sass                         ██████░░░░░░░░░░░░░░░░░░      20.12%
 🔥 Editors: 
 VsCode                       ██████████████████░░░░░░      78.55% 
-Sublime text                 █████░░░░░░░░░░░░░░░░░░░      21.45% 
+Android Studio               ██████████████░░░░░░░░░░      64%
+Xcode                        ████████████░░░░░░░░░░░░      57% 
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="Rakib" width="500px" style="margin-left: 20px;" />
