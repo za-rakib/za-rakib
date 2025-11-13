@@ -48,7 +48,7 @@ Xcode                        ████████████░░░░░
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=tokyonight&title_color=white&locale=en&layout=compact" alt="Rakib" width="500px" style="margin-left: 20px;" />
 <p align="">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za-rakib&layout=compact&theme=tokyonight" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za-rakib&layout=compact&theme=tokyonight" width="500px" />
 </p>
 <!--END_SECTION:waka-->
 <h3> 🤝🏻 Connect with Me </h3>
