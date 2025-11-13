@@ -46,7 +46,7 @@ Android Studio               ██████████████░░░
 Xcode                        ████████████░░░░░░░░░░░░      57% 
 ```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=vue&title_color=white&locale=en&layout=compact" alt="Rakib" width="500px" style="margin-left: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=tokyonight&title_color=white&locale=en&layout=compact" alt="Rakib" width="500px" style="margin-left: 20px;" />
 <p align="">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=za-rakib&layout=compact&theme=tokyonight" />
 </p>
