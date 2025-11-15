@@ -21,7 +21,7 @@
 ### 📈 GitHub Insights
 
 <p align="">
-  <img width="500px" src="https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&v=1" />
+  <img width="500px" src="https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&v=1&date_range=last_year" />
 </p>
 
 
