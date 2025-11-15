@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rakib Hossen
+# 👋 Hi, I'm Rakib Hossen<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 **Software Engineer | Mobile App Developer | iOS & Cross-Platform Specialist**
 
@@ -27,7 +27,7 @@ I'm a passionate software engineer currently working at [Intellier Limited](http
 
 ## 📊 Development Analytics
 
-<div align="center">
+<div align="">
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&v=1&date_range=last_year)
 
