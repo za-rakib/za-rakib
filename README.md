@@ -27,15 +27,15 @@ I'm a passionate software engineer currently working at [Intellier Limited](http
 
 ## 📊 Development Analytics
 
-<div align="">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&v=1&date_range=last_year)
+<p align="">
+<img width="500px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
+</p>
+<p align="">
+  <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night&height=300)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&theme=tokyonight&layout=compact&langs_count=8)
+---
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=tokyonight&title_color=white&locale=en&layout=compact" alt="Rakib" width="450px" style="margin-left: 20px;" />
-</div>
 
 ---
 
