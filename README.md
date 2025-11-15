@@ -28,7 +28,7 @@ I'm a passionate software engineer currently working at [Intellier Limited](http
 ## 📊 Development Analytics
 
 <p align="">
-<img width="500px" src="https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&hide_longest_streak=true" />
+<img width="500px" src="https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&v=1&date_range=last_year" />
 </p>
 <p align="">
   <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
