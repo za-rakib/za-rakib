@@ -1,43 +1,64 @@
- # Hi there, I'm [Rakib](https://za-portfolio.web.app/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-- 👨‍💻 I’m currently working as a Software Engineer at [Intellier Limited](https://www.intellier.com/).
-- 🌱 I’m currently learning ...Swift ...iOS, DSA...
+# 👋 Hi, I'm Rakib Hossen
+
+**Software Engineer | Mobile App Developer | iOS & Cross-Platform Specialist**
+
+I'm a passionate software engineer currently working at [Intellier Limited](https://www.intellier.com/), specializing in building robust mobile applications. With expertise in both iOS native development and cross-platform solutions, I create seamless user experiences across multiple platforms.
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/md-rakib-hossen-2964b0157/
-[github]: https://github.com/za-rakib/
+## 🛠 Technical Stack
 
-### 🧠 Languages & Tools
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00CFFF)
-![React Native](https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=00CFFF)
+### **Mobile Development**
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### **Frontend & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-### 📈 GitHub Insights
+## 📊 Development Analytics
 
-<p align="">
-<img width="500px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
-</p>
-<p align="">
-  <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
-</p>
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&v=1&date_range=last_year)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night&height=300)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&theme=tokyonight&layout=compact&langs_count=8)
+
+</div>
 
 ---
 
+## 🚀 Current Focus
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=tokyonight&title_color=white&locale=en&layout=compact" alt="Rakib" width="450px" style="margin-left: 20px;" />
+- 🔭 **Professional:** Developing enterprise mobile solutions at Intellier Limited
+- 🌱 **Learning:** Advanced Swift, iOS architecture patterns, and system design
+- 💡 **Exploring:** Performance optimization in mobile applications
+- 🤝 **Open to:** Collaborative projects and technical discussions
 
-<!--END_SECTION:waka-->
-<h3> 🤝🏻 Connect with Me </h3>
-<p><a href="https://www.linkedin.com/in/za-rakib/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
- <a href="https://www.facebook.com/za.rakib2/" target="_blank"><img alt="FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
- <a href="https://drive.google.com/file/d/171Cd-mzeCPTfKL9UfeeNqGyY7V06-eus/view?usp=sharing" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-1DA1F2?style=for-the-badge&l=white" /></a>
-  <a href="https://www.instagram.com/rakib_iosdev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+---
 
+## 📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/za-rakib/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://za-portfolio.web.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![Resume](https://img.shields.io/badge/Resume-008080?style=for-the-badge&logo=documents&logoColor=white)](https://drive.google.com/file/d/171Cd-mzeCPTfKL9UfeeNqGyY7V06-eus/view)
+
+---
+
+<div align="center">
+  
+### 💼 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+</div>
