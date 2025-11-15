@@ -28,13 +28,11 @@ I'm a passionate software engineer currently working at [Intellier Limited](http
 ## 📊 Development Analytics
 
 <p align="">
-<img width="500px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
+<img width="500px" src="https://streak-stats.demolab.com/?user=za-rakib&theme=tokyonight&hide_longest_streak=true" />
 </p>
 <p align="">
   <img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=za-rakib&theme=tokyo-night" />
 </p>
-
----
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=za-rakib&show_icons=true&theme=tokyonight&title_color=white&locale=en&layout=compact" alt="Rakib" width="450px" style="margin-left: 20px;" />
 
 ---
