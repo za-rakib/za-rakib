@@ -49,7 +49,7 @@ I'm a passionate software engineer currently working at [Intellier Limited](http
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/za-rakib/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://za-portfolio.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://za-rakib.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
 [![Resume](https://img.shields.io/badge/Resume-008080?style=for-the-badge&logo=documents&logoColor=white)](https://drive.google.com/file/d/171Cd-mzeCPTfKL9UfeeNqGyY7V06-eus/view)
 
